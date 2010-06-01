@@ -1,0 +1,3 @@
+These scripts are based/ripped off of switchboard and xmpp4r and are used for testing
+the basic functionality of XMPP for PhoneGap so that it can be automated.  Also, in the
+case of PubSub, so that it could be tested at all.
